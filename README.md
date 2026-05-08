@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey 👋<br><br>I'm Collins C. Matela — an IT student driven by creativity, technology, and the passion for building on the web.<br>Currently pursuing a Bachelor of Science in Information Technology, with a growing focus on web development and crafting clean, interactive digital experiences.<br><br>⚡ I do project kasi trip ko lang
 
 
