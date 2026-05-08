@@ -1,4 +1,7 @@
-Hey 👋<br><br>I'm Collins C. Matela — an IT student driven by creativity, technology, and the passion for building on the web.<br>Currently pursuing a Bachelor of Science in Information Technology, with a growing focus on web development and crafting clean, interactive digital experiences.<br><br>⚡ I do project kasi trip ko lang
+Hey 👋<br><br>I'm Collins C. Matela — an IT student driven by creativity, technology, and the passion for building on the web.<br>Currently pursuing a Bachelor of Science in Information Technology, with a growing focus on web development and crafting clean, interactive digital experiences.<br><br>
+✉️ You can contact me at matela2nd@gmail.com<br>
+🧠 I'm currently learning MERN Tech Stack and soon Typescript<br>
+💬 I do project kasi wala akong magawa sa buhay
 
 
 ## 🌐 Socials:
