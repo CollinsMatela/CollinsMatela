@@ -1,6 +1,6 @@
 Hey 👋<br><br>I'm Collins C. Matela — an IT student driven by creativity, technology, and the passion for building on the web.<br>Currently pursuing a Bachelor of Science in Information Technology, with a growing focus on web development and crafting clean, interactive digital experiences.<br><br>
 ✉️ You can contact me at [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/collinsmatela) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/user_mtlcllns) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matela2nd@gmail.com) <br>
-🧠 I'm currently learning MERN Tech Stack and soon Typescript<br>
+🧠 I'm currently learning web-development<br>
 💬 I do project kasi wala akong magawa sa buhay
 
 
