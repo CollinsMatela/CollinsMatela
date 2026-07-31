@@ -1,3 +1,6 @@
+
+<div align="center">
+
 # 👋 Hey, I'm Collins Matela
 
 ### 💻 Full-Stack Developer • MERN Stack • Building Practical Web Applications
@@ -6,8 +9,11 @@ I'm a **BSIT student and aspiring full-stack developer** passionate about creati
 
 I enjoy turning ideas into functional systems — especially using the **MERN stack**, where I work across both frontend and backend development.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
+</div>
 ---
 
 ## 🚀 About Me
@@ -39,7 +45,7 @@ I enjoy turning ideas into functional systems — especially using the **MERN st
 ### Tools & Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary,vercel" />
 </p>
 
 ---
