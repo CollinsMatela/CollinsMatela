@@ -1,11 +1,139 @@
-Hey 👋<br><br>I'm Collins C. Matela — an IT student driven by creativity, technology, and the passion for building on the web.<br>Currently pursuing a Bachelor of Science in Information Technology, with a growing focus on web development and crafting clean, interactive digital experiences.<br><br>
-✉️ You can contact me at [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/collinsmatela) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/user_mtlcllns) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matela2nd@gmail.com) <br>
-🧠 I'm currently learning web-development.<br>
-💬 Coding tips: Untog mo sarili mo sa pader.
+# 👋 Hey, I'm Collins Matela
 
+### 💻 Full-Stack Developer • MERN Stack • Building Practical Web Applications
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br/><br/>
-![](https://streak-stats.demolab.com/?user=CollinsMatela&theme=transparent&hide_border=false)<br/>
+I'm a **BSIT student and aspiring full-stack developer** passionate about creating modern, responsive, and useful web applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I enjoy turning ideas into functional systems — especially using the **MERN stack**, where I work across both frontend and backend development.
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+---
+
+## 🚀 About Me
+
+* 🎓 BSIT Student
+* 💻 Focused on **Full-Stack Web Development**
+* ⚡ Building applications with the **MERN Stack**
+* 📚 Currently developing a **Library Management System**
+* 🤖 Exploring **AI integrations in web applications**
+* 🧠 Always learning and improving my development skills
+* 🎯 Goal: Become a professional full-stack developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
+</p>
+
+---
+
+## 📚 Featured Project
+
+### 📖 Library Management System
+
+A full-stack web-based library platform designed to manage digital and physical library resources while providing different experiences for administrators, teachers, parents, and students.
+
+**Built with:**
+
+`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+### ✨ Highlights
+
+* 🔐 Role-based authentication
+* 👨‍💼 Admin management
+* 👨‍🏫 Teacher features
+* 👨‍👩‍👧 Parent & student features
+* 📚 Digital library and book management
+* 📖 Story management
+* 📝 Quiz functionality
+* 📊 Progress tracking
+* ☁️ Cloud-based image/file storage
+* 🤖 AI-powered content features
+* 📱 Responsive modern UI
+
+> Building systems that are not only functional, but also simple and enjoyable to use.
+
+🔗 **[View Project](https://github.com/collinsmatela/library-system)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=collinsmatela&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsmatela&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsmatela&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 💡 What I'm Working On
+
+```text
+Building       ███████████████████░  95%
+Learning       █████████████████░░░  85%
+Experimenting  ████████████████░░░░  80%
+Debugging      ████████████████████ 100%
+```
+
+Currently focused on:
+
+* 🚀 Improving my MERN development skills
+* 🧩 Building scalable full-stack applications
+* 🎨 Creating cleaner and more responsive UIs
+* 🔐 Learning better authentication and security practices
+* 🤖 Exploring AI-powered features
+* ☁️ Learning more about deployment and production environments
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/collinsmatela">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/collinsmatela">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:matela2nd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/collinsmatela/collinsmatela/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code. Build. Learn. Repeat.</b>
+  <br>
+  <sub>Thanks for visiting my profile! ⭐</sub>
+</p>
+
