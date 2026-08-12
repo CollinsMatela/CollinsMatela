@@ -1,4 +1,4 @@
-<h1 align="center"> <i>Collins C. Matela 👋</i> </h1>
+<h1 align="center"> <i>Collins C. Matela </i> </h1>
 
 <p align="center"> —Web Development (MERN Stack). Wala kasi akong masulat dito siguro pukpok mo laptop mo sa ulo mo.</p>
 
